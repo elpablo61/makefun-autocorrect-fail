@@ -1,0 +1,1 @@
+{"description":"make.fun entry: Funniest Autocorrect Fail — one line, one autocorrect slip","license":"MIT","main":"main.ts","name":"makefun-autocorrect-fail","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
